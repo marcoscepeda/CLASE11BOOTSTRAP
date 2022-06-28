@@ -2,6 +2,9 @@
 *{
     box-sizing: border-box;
 }
+body{
+    background-color:rgb(238, 196, 182) ;   /*******cuando pongo clase main el margen me deja un espacio blanco lateral   *********/
+}
 
 .card .card-img-top{
     height: 200px;
